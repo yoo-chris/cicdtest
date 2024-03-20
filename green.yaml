@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: ysw-ctn-green
-          image: chris4929/rapaeng4:green
+          image: chris4929/cicdtest:green
           ports:
             - containerPort: 80
